@@ -1,0 +1,19 @@
+.container {
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+    font-family: 'roboto', sans-serif;
+    line-height: 1.5;
+}
+
+#myTable {
+    border: 1px solid #03001C;
+    width: 100%;
+    font-size: 18px;
+    border-collapse: collapse;
+}
+
+#myTable th, #myTable td {
+    border: 1px solid #301E67;
+    padding: 12px;
+}
